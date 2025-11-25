@@ -1,0 +1,241 @@
+[
+    {
+        "nome": "Elden Ring",
+        "descricao": "Ação-RPG de mundo aberto com combate desafiador, desenvolvido pela FromSoftware em colaboração com George R. R. Martin.",
+        "ano": 2022,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Elden%20Ring",
+            "psn": "https://store.playstation.com/search/elden%20ring",
+            "xbox": "https://www.xbox.com/search?q=elden%20ring"
+        },
+        "nota": 9.5
+    },
+
+    {
+        "nome": "Bloodborne",
+        "descricao": "Ação sombria e agressiva, exclusivo (até então) da PlayStation, conhecido por seu combate veloz e atmosfera gótica.",
+        "ano": 2015,
+        "links": {
+            "steam": "",
+            "psn": "https://store.playstation.com/search/bloodborne",
+            "xbox": ""
+        },
+        "nota": 9.3
+    },
+
+    {
+        "nome": "Dark Souls (Remastered)",
+        "descricao": "Clássico que popularizou o subgênero: combate punitivo, design de níveis interconectado e progressão difícil.",
+        "ano": 2011,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Dark%20Souls%20Remastered",
+            "psn": "https://store.playstation.com/search/dark%20souls",
+            "xbox": "https://www.xbox.com/search?q=dark%20souls"
+        },
+        "nota": 9.2
+    },
+
+    {
+        "nome": "Dark Souls III",
+        "descricao": "Encerramento da trilogia Souls produzido pela FromSoftware, refinando combate e construção de mundos.",
+        "ano": 2016,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Dark%20Souls%20III",
+            "psn": "https://store.playstation.com/search/dark%20souls%20iii",
+            "xbox": "https://www.xbox.com/search?q=dark%20souls%20iii"
+        },
+        "nota": 9.0
+    },
+
+    {
+        "nome": "Sekiro: Shadows Die Twice",
+        "descricao": "Aventura de ação com foco em parry e mobilidade, oferecendo desafio em ritmo acelerado e narrativa samurai.",
+        "ano": 2019,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Sekiro",
+            "psn": "https://store.playstation.com/search/sekiro",
+            "xbox": "https://www.xbox.com/search?q=sekiro"
+        },
+        "nota": 9.1
+    },
+
+    {
+        "nome": "Demon's Souls (Remake)",
+        "descricao": "Ressurreição do título que originou a fórmula Souls, com visual atualizado e combate desafiador.",
+        "ano": 2020,
+        "links": {
+            "steam": "",
+            "psn": "https://store.playstation.com/search/demons%20souls",
+            "xbox": ""
+        },
+        "nota": 9.0
+    },
+
+    {
+        "nome": "Nioh",
+        "descricao": "Ação-RPG com forte influência do Soulslike e elementos de loot e postura no combate, ambientado no Japão feudal.",
+        "ano": 2017,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Nioh",
+            "psn": "https://store.playstation.com/search/nioh",
+            "xbox": ""
+        },
+        "nota": 8.6
+    },
+
+    {
+        "nome": "Nioh 2",
+        "descricao": "Continuação que expande sistemas de combate e customização, mantendo a dificuldade e profundidade tática.",
+        "ano": 2020,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Nioh%202",
+            "psn": "https://store.playstation.com/search/nioh%202",
+            "xbox": ""
+        },
+        "nota": 8.7
+    },
+
+    {
+        "nome": "Hollow Knight",
+        "descricao": "Metroidvania com combate preciso e atmosfera melancólica; frequentemente comparado a soulslikes por sua dificuldade e design de mundo.",
+        "ano": 2017,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Hollow%20Knight",
+            "psn": "https://store.playstation.com/search/hollow%20knight",
+            "xbox": "https://www.xbox.com/search?q=hollow%20knight"
+        },
+        "nota": 9.0
+    },
+
+    {
+        "nome": "Remnant: From the Ashes",
+        "descricao": "Mistura soulslike com tiro em terceira pessoa e geração procedural de níveis; coop enfocado e combate desafiador.",
+        "ano": 2019,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Remnant%20From%20the%20Ashes",
+            "psn": "https://store.playstation.com/search/remnant",
+            "xbox": "https://www.xbox.com/search?q=remnant%20from%20the%20ashes"
+        },
+        "nota": 8.1
+    },
+
+    {
+        "nome": "Salt and Sanctuary",
+        "descricao": "2D soulslike com mecânicas de progressão similares aos Souls e forte ênfase em combate punitivo e exploração.",
+        "ano": 2016,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Salt%20and%20Sanctuary",
+            "psn": "https://store.playstation.com/search/salt%20and%20sanctuary",
+            "xbox": "https://www.xbox.com/search?q=salt%20and%20sanctuary"
+        },
+        "nota": 8.0
+    },
+
+    {
+        "nome": "Blasphemous",
+        "descricao": "Ação 2D com estética sombria e combate desafiador, fortemente influenciado por jogos soulslike e folclore gótico.",
+        "ano": 2019,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Blasphemous",
+            "psn": "https://store.playstation.com/search/blasphemous",
+            "xbox": "https://www.xbox.com/search?q=blasphemous"
+        },
+        "nota": 7.8
+    },
+
+    {
+        "nome": "Mortal Shell",
+        "descricao": "Aproximação minimalista ao soulslike com sistema de 'shells' que mudam sua build e estilo de jogo.",
+        "ano": 2020,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Mortal%20Shell",
+            "psn": "https://store.playstation.com/search/mortal%20shell",
+            "xbox": "https://www.xbox.com/search?q=mortal%20shell"
+        },
+        "nota": 7.2
+    },
+
+        {
+            "nome": "Code Vein",
+            "descricao": "Action RPG com estética anime e foco em combate cooperativo, frequentemente descrito como \"anime Souls\".",
+            "ano": 2019,
+            "links": {
+                "steam": "https://store.steampowered.com/search/?term=Code%20Vein",
+                "psn": "https://store.playstation.com/search/code%20vein",
+                "xbox": "https://www.xbox.com/search?q=code%20vein"
+            },
+            "nota": 7.5
+        },
+
+    {
+        "nome": "The Surge",
+        "descricao": "Foco em combate corpo-a-corpo com sistema de desmembramento e customização de equipamento; ambientação sci-fi.",
+        "ano": 2017,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=The%20Surge",
+            "psn": "https://store.playstation.com/search/the%20surge",
+            "xbox": "https://www.xbox.com/search?q=the%20surge"
+        },
+        "nota": 7.0
+    },
+
+    {
+        "nome": "The Surge 2",
+        "descricao": "Evolui o original com mundo mais aberto, inimigos mais variados e novas mecânicas de combate e crafting.",
+        "ano": 2019,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=The%20Surge%202",
+            "psn": "https://store.playstation.com/search/the%20surge%202",
+            "xbox": "https://www.xbox.com/search?q=the%20surge%202"
+        },
+        "nota": 7.3
+    },
+
+    {
+        "nome": "Lords of the Fallen (2023)",
+        "descricao": "Reimaginação moderna do soulslike clássico, com combate atualizado e design de mundo contemporâneo.",
+        "ano": 2023,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Lords%20of%20the%20Fallen",
+            "psn": "https://store.playstation.com/search/lords%20of%20the%20fallen",
+            "xbox": "https://www.xbox.com/search?q=lords%20of%20the%20fallen"
+        },
+        "nota": 7.8
+    },
+
+    {
+        "nome": "Ashen",
+        "descricao": "Aventura de ação cooperativa com ênfase em exploração, combate tático e design artístico minimalista.",
+        "ano": 2018,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Ashen",
+            "psn": "https://store.playstation.com/search/ashen",
+            "xbox": "https://www.xbox.com/search?q=ashen"
+        },
+        "nota": 7.0
+    },
+
+    {
+        "nome": "Hellpoint",
+        "descricao": "Ação soulslike ambientada em uma estação espacial sombria, com elementos de sci-fi e terror.",
+        "ano": 2020,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Hellpoint",
+            "psn": "https://store.playstation.com/search/hellpoint",
+            "xbox": "https://www.xbox.com/search?q=hellpoint"
+        },
+        "nota": 6.8
+    }
+,
+    {
+        "nome": "Dark Souls II: Scholar of the First Sin",
+        "descricao": "Versão remasterizada de Dark Souls II com balanceamentos, conteúdo adicional e melhorias técnicas; mantém o desafio característico da série.",
+        "ano": 2015,
+        "links": {
+            "steam": "https://store.steampowered.com/search/?term=Dark%20Souls%20II%20Scholar%20of%20the%20First%20Sin",
+            "psn": "https://store.playstation.com/search/dark%20souls%20ii",
+            "xbox": "https://www.xbox.com/search?q=dark%20souls%20ii"
+        },
+        "nota": 8.4
+    }
+]
